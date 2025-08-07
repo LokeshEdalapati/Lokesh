@@ -1,0 +1,42 @@
+Chronic Diseases Prediction Using Machine Learning With Data Preprocessing Handling: A Critical Review
+
+
+Chronic disease prediction, machine learning, preprocessing data, systematic literature
+review (SLR).
+
+
+
+IEEE Transaction Access on Machine Learning,Volume:12,Issue Date:14.June.2024
+
+
+Chronic_Diseases_Prediction
+
+
+chronic_diseases_prediction
+
+
+predict_chronic_diseases
+
+
+Prediction_Of_Chronic_Diseases
+
+
+Predicted Chronic Diseases
+
+
+Members
+---------
+
+
+Fid	
+Gender	
+Age	
+ADDRESS	
+CITY
+Smoking	
+Diabetic	
+KidneyDisease	
+marital_status	
+highest_qualification	
+children
+Prediction
